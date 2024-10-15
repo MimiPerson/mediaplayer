@@ -18,6 +18,8 @@ This project is a **video player** designed to integrate with **Streamer.bot**, 
 
 #### 1. **Start the Streamer.bot WebSocket Server**
 
+Import [Streamer.bot Import String](https://github.com/MimiPerson/mediaplayer/blob/master/Streamer.bot_Import.txt) into your streamer.bot
+
 To use the video player, ensure that the Streamer.bot WebSocket server is running. By default, it runs at `127.0.0.1:8080`.
 
 - To enable the WebSocket server, open Streamer.bot, navigate to **WebSocket Settings**, and start the server if it’s not already running.
